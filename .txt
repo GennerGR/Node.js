@@ -2,19 +2,23 @@ Aprendiendo con midudev en yt.
 
 
 //CAP1
-
+ 
 
 Node no es un lenguaje de programacion, duela a quien le duela.
 
-Es un entorno de ejecución de JS.
+Es un entorno de ejecución de JS. 
 
 De codigo abierto y multiplataforma.
 
-Utiliza el motor V8 que es el motor que utiliza Chrome para correr JS.
+Utiliza el motor V8 que es el motor que utiliza Chrome para correr JS. 
 
 Es asincrono.
 
-**La demanda de Node.js en el mercado esta por los cielos y va mucho mas haya del Back end.
+**La demanda de Node.js en el mercado esta por los cielos y va mucho mas haya del Backend.
 
 Node.js Utiliza Node.js
 
+ comuondjs
+
+
+ 
