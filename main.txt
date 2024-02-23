@@ -1,0 +1,34 @@
+Aprendiendo con midudev en yt.
+
+Node no es un lenguaje de programacion, duela a quien le duela.
+
+Es un entorno de ejecución de JS. 
+
+Utiliza el motor V8 que es el motor que utiliza Chrome para correr JS. 
+
+CJS / MJS
+
+
+Sincrono: Un procesos a la vez.
+
+Asincrono: Responder a una tarea de larga duracion y responder otros 
+mas al mismo tiempo.
+
+Promesa: En el momento en que la promesa sea devuelta al llamante, 
+la operación a menudo no está terminada, pero el objeto prometido proporciona métodos para manejar el éxito o el 
+fracaso final de la operación.
+
+Callback: Funcion que se pasa a otra funcion como un argumento
+que luego se invoca dentro de la función externa para completar 
+algún tipo de rutina o acción.
+
+fs: fileSystem.
+
+async-await: La declaración de función async define una función asíncrona, la cual devuelve un objeto. 
+El operador await es usado para esperar a una Promise. 
+Sólo puede ser usado dentro de una función async function.
+
+
+
+
+
