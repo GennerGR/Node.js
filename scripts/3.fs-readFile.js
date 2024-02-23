@@ -16,13 +16,24 @@ const fs = require('node:fs')
 //readFile && Collback
 
 console.log('Leyendo el primer archivo ...')
-fs.readFile('../.txt', 'utf-8', (err, text) =>{ //mostrar: error y leer texto. Cuando termine ejecuta el collback
-    console.log(text)
+fs.readFile('../1.txt', 'utf-8', (err, text) =>{ //mostrar: error y leer texto. Cuando termine ejecuta el collback
+    console.log('Leyendo el Primer texto:',text)
 })
+
+console.log('hace cosas mientras lee el archivo')
 
 console.log('Leyendo el segundo archivo ...')
 fs.readFile('../2.txt', 'utf-8', (err, secondText) =>{
-    console.log(secondText)
+    console.log('Leyendo el Segundo texto:', secondText)
 })
+
+//Lee el archivo, lo codifica y ejecuta la funcion cuando termina de leer.
+
+//como ya tenemos un callback ya no necesitamos guardarlo en una constante.
+//y ya no coliciona el nombre del parametro.
+
+
+
+
 
 
