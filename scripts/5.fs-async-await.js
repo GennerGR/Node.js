@@ -6,8 +6,6 @@ const fs = require('node:fs/promises')
 
 )()
 
-
-
 console.log('Leyendo el primer archivo...')
 fs.readFile('../1.txt', 'utf-8')
 .then(text => {
