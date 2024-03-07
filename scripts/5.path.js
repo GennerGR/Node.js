@@ -1,5 +1,6 @@
 const path = require('node:path')
-//barra separadora de carpetas segun SO
+
+//barra separadora de carpetas segun OS
 console.log(path.sep)
 
 // --> unix /
