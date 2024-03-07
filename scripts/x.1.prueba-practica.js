@@ -1,4 +1,4 @@
-const {Promise} = require('dns') 
+const {promises} = require('dns') 
 
 function cruzSuperior () {
     return new Promise((resolve, _reject) => {
@@ -8,6 +8,16 @@ function cruzSuperior () {
         }, 1000);
     })
 }
+
+(
+async function pepe () {
+    try{
+        console.log('haciendo peticion')
+    }
+    catch{
+        console.log('fallo, jajajjaja que gey')
+    }
+})()
 
 function caraSuperior () {
     return new Promise((resolve, _reject) => {
@@ -65,14 +75,13 @@ function utlimasDosEsquinas () {
 
 function armarCubo () {
     console.log('Armando el cubo....');
-    return Promise.all(
-        [cruzSuperior(), caraSuperior(), capaMedia(), acomodarCruzSuperior(), ultimasEsquinas(), utlimasDosEsquinas()])
+    return Promise.all([cruzSuperior(), caraSuperior(), capaMedia(), acomodarCruzSuperior(), ultimasEsquinas(), utlimasDosEsquinas()])
         .then(resultados => {
             console.log(warn('........................................'))
             console.log('Pasos realizados', resultados[0], resultados[1], resultados[2], resultados[3], resultados[4], resultados[5], resultados[6])
             return 'Cubo armado';
         })
-        .catch(() => console.log(Error('505')))
+        .catch(() => console.log(Error('rechazo de promesa')))
 }
 
 armarCubo()
@@ -92,3 +101,14 @@ armarCubo()
 //5. Acomodar los colores de la cruz superior.
 //6. Orientar bien las ultimas 3 esquinas.
 //7. Acomodar las ultimas dos esquinas.
+
+
+
+
+
+//peticiones (all)
+//verbos http
+
+
+
+
