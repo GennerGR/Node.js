@@ -32,11 +32,12 @@ Sólo puede ser usado dentro de una función async function.
 
 TEMARIO
 
-Sistema de Módulos CommonJS
-Sistema de Modulos ES Modules
-Modulos Nativos
-Import / require
+Sistema de Módulos CommonJS                                         _/
+Sistema de Modulos ES Modules                                       _/
+Modulos Nativos                                                     _/
+Import / require                                                    _/
 Sentirse inutil
+fs                                                                  
 Extension de archivos
 Asincrono vs Sincrono
 CallBacks en NodeJS
@@ -63,6 +64,10 @@ Sentirse inutil
 Puertos y coliciones
 Variables de entorno
 Diferencia entre Etica y Moral
+
+
+
+
 
 
 

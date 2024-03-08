@@ -26,4 +26,8 @@ fun (division(), multiplicacion())
 
 
 
+function saludar (name) {
+    console.log(`I love you ${name}`);
+}
 
+saludar('Ariana')

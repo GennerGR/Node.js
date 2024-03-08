@@ -13,7 +13,7 @@ console.info('Memoria total', os.totalmem() / 1024 / 1024)
 console.log('uptime', os.uptime() / 60 / 60)
 
 
-
+//control + punto __ convertir require a import
 
 
 
