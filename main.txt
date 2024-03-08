@@ -30,5 +30,46 @@ Sólo puede ser usado dentro de una función async function.
 
 
 
+TEMARIO
+
+Sistema de Módulos CommonJS                                         _/
+Sistema de Modulos ES Modules                                       _/
+Modulos Nativos                                                     _/
+Import / require                                                    _/
+Sentirse inutil
+fs                                                                  
+Extension de archivos
+Asincrono vs Sincrono
+CallBacks en NodeJS
+Promesas
+Sentirse inutil
+Transformar CallBacks a Promesas
+Async Await
+Paralelo
+Version Síncrona
+Path 
+Sentirse inutil
+Unir rutas / Nombre de un archivo / Obtener la Extension
+Objeto global process 
+CWD
+Platform
+Comando ls avanzado
+Sentirse inutil
+NPM
+Package.json
+Semantic Version
+node_modules
+Servidores con Node.js 
+Sentirse inutil
+Puertos y coliciones
+Variables de entorno
+Diferencia entre Etica y Moral
+
+
+
+
+
+
+
 
 

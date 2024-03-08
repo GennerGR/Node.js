@@ -1,5 +1,5 @@
 function division () {
-    result = 15  /  10;
+    return result = 15  +  10;
 }
 
 module.exports = division;
