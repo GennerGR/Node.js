@@ -10,13 +10,18 @@ division()
 
 
 let op = (suma, resta) => {
-    res = suma + resta
+    res = suma + resta;
     console.log(res)
 }
 
 op(suma(), resta())
 
+let fun = (division, multiplicacion) => {
+    result = division + multiplicacion;
+    console.log(result)
+}
 
+fun (division(), multiplicacion())
 
 
 
