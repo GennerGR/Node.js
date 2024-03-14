@@ -106,9 +106,6 @@ armarCubo()
 
 
 
-//peticiones (all)
-//verbos http
-
 
 
 

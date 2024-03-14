@@ -40,13 +40,13 @@ Import / require                                                    _/
 Sentirse inutil                                                     _/
 fs                                                                  _/
 Extension de archivos                                               _/
-Asincrono vs Sincrono
-CallBacks en NodeJS
-Promesas
-Sentirse inutil
-Transformar CallBacks a Promesas
-Async Await
-Paralelo
+Asincrono vs Sincrono                                               _/
+CallBacks en NodeJS                                                 _/
+Promesas                                                            _/
+Sentirse inutil                                                     _/
+Transformar CallBacks a Promesas                                    _/
+Async Await                                                         
+Paralelo                                                            
 Version Síncrona
 Path 
 Sentirse inutil
@@ -64,6 +64,8 @@ Servidores con Node.js
 Sentirse inutil
 Puertos y coliciones
 Variables de entorno
+Peticiones (all)
+Verbos http
 Diferencia entre Etica y Moral
 
 
