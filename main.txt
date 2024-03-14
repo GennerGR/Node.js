@@ -28,6 +28,7 @@ async-await: La declaración de función async define una función asíncrona, l
 El operador await es usado para esperar a una Promise. 
 Sólo puede ser usado dentro de una función async function.
 
+// Callback : Funcion que se ejecuta cuando se completa una tarea asincrona.
 
 
 TEMARIO
@@ -36,9 +37,9 @@ Sistema de Módulos CommonJS                                         _/
 Sistema de Modulos ES Modules                                       _/
 Modulos Nativos                                                     _/
 Import / require                                                    _/
-Sentirse inutil
-fs                                                                  
-Extension de archivos
+Sentirse inutil                                                     _/
+fs                                                                  _/
+Extension de archivos                                               _/
 Asincrono vs Sincrono
 CallBacks en NodeJS
 Promesas
@@ -73,3 +74,8 @@ Diferencia entre Etica y Moral
 
 
 
+
+
+
+
+Zedd beautiful now

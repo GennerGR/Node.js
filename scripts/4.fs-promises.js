@@ -1,33 +1,34 @@
 const fs = require('node:fs/promises')
 
-console.log('Leyendo el primer archivo ...')
+console.log('Leyendo el primer archivo')
 fs.readFile('../1.txt', 'utf-8')
-.then(text => {
-    console.log(`Primer texto: ${text}`)
-})
-.catch(error => {
-   console.log(error)
-})
+.then(uno => {
+    console.log(`resultados del primer archivo ${uno}`)
+});
 
-console.log('Hace cosas mientras lee el archivo')
+console.log('haciendo cosas mientras hace otras cosas')
 
-console.log('Leyendo el segundo archivo ...')
+console.log('Leyendo el segundo archvo')
 fs.readFile('../2.txt', 'utf-8')
-.then(secondText => {
-    console.log(`Segundo texto: ${secondText}`)
-})
+.then(dos => {
+    console.log(`resultados del segundo archivo ${dos}`)
+});
 
 //Promesa
 
-console.log('Leyendo el main:')
-fs.readFile('../main.txt', 'utf-8') // Funcion asincrona
-.then(main => {                     // Promesa
-    console.log(`Main: ${main}`)
-    console.log(main.length)
-})
+console.log('Leyendo el tercer archivo')
+fs.readFile('../3.txt', 'utf-8')
+.then(tres => {
+    console.log(`resultados del tercer archivo ${tres}`)
+    console.log(tres.length)
+});
+
+
+
 
 
 //Una funcion asincrona que lee un archivo y devuelve una promesa.
+
 
 
 
@@ -37,6 +38,8 @@ fs.readFile('../main.txt', 'utf-8') // Funcion asincrona
 
 //const(promisify) = require.('node:util')
 //const readFilePromise = promisify(fs.readFile)
+
+
 
 
 
