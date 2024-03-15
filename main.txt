@@ -42,11 +42,12 @@ fs                                                                  _/
 Extension de archivos                                               _/
 Asincrono vs Sincrono                                               _/
 CallBacks en NodeJS                                                 _/
+try...catch                                                         _/
 Promesas                                                            _/
 Sentirse inutil                                                     _/
 Transformar CallBacks a Promesas                                    _/
-Async Await                                                         
-Paralelo                                                            
+Async Await                                                         _/                                            
+Paralelo                                                                                        
 Version Síncrona
 Path 
 Sentirse inutil
