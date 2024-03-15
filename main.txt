@@ -51,9 +51,9 @@ Paralelo                                                            _/
 Version Síncrona                                                    _/
 Path                                                                _/
 Sentirse inutil                                                     _/
-Unir rutas / Nombre de un archivo / Obtener la Extension
-Objeto global process 
-CWD
+Unir rutas / Nombre de un archivo / Obtener la Extension            _/
+Objeto global process                                               _/
+CWD (current working directory)                                     _/
 Platform
 Comando ls avanzado
 Sentirse inutil
