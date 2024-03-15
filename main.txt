@@ -47,10 +47,10 @@ Promesas                                                            _/
 Sentirse inutil                                                     _/
 Transformar CallBacks a Promesas                                    _/
 Async Await                                                         _/                                            
-Paralelo                                                                                        
-Version Síncrona
-Path 
-Sentirse inutil
+Paralelo                                                            _/                            
+Version Síncrona                                                    _/
+Path                                                                _/
+Sentirse inutil                                                     _/
 Unir rutas / Nombre de un archivo / Obtener la Extension
 Objeto global process 
 CWD
