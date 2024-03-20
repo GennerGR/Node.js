@@ -30,6 +30,7 @@ Sólo puede ser usado dentro de una función async function.
 
 
 
+// Callback : Funcion que se ejecuta cuando se completa una tarea asincrona.
 
 
 TEMARIO
@@ -41,19 +42,20 @@ Import / require                                                    _/
 Sentirse inutil                                                     _/
 fs                                                                  _/
 Extension de archivos                                               _/
-Asincrono vs Sincrono
-CallBacks en NodeJS
-Promesas
-Sentirse inutil
-Transformar CallBacks a Promesas
-Async Await
-Paralelo
-Version Síncrona
-Path 
-Sentirse inutil
-Unir rutas / Nombre de un archivo / Obtener la Extension
-Objeto global process 
-CWD
+Asincrono vs Sincrono                                               _/
+CallBacks en NodeJS                                                 _/
+try...catch                                                         _/
+Promesas                                                            _/
+Sentirse inutil                                                     _/
+Transformar CallBacks a Promesas                                    _/
+Async Await                                                         _/                                            
+Paralelo                                                            _/                            
+Version Síncrona                                                    _/
+Path                                                                _/
+Sentirse inutil                                                     _/
+Unir rutas / Nombre de un archivo / Obtener la Extension            _/
+Objeto global process                                               _/
+CWD (current working directory)                                     _/
 Platform
 Comando ls avanzado
 Sentirse inutil
@@ -65,6 +67,8 @@ Servidores con Node.js
 Sentirse inutil
 Puertos y coliciones
 Variables de entorno
+Peticiones (all)
+Verbos http
 Diferencia entre Etica y Moral
 CRUD
 
@@ -72,6 +76,14 @@ CRUD
 
 
 
+
+
+
+
+
+
+
+Zedd beautiful now
 
 
 

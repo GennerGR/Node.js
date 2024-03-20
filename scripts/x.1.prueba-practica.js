@@ -1,4 +1,4 @@
-const {promises} = require('dns') 
+    const {promises} = require('dns') 
 
 function cruzSuperior () {
     return new Promise((resolve, _reject) => {
@@ -15,7 +15,7 @@ async function pepe () {
         console.log('haciendo peticion')
     }
     catch{
-        console.log('fallo, jajajjaja que gey')
+        console.log('fallo')
     }
 })()
 
@@ -40,7 +40,7 @@ function capaMedia () {
 function cruzSuperior () {
     return new Promise((resolve, _reject) => {
         setTimeout(() => { 
-            console.log('Armar la cruz de la cara superior')
+            console.log('Armar la cruz de la cara superio   r')
             resolve('Cruz superior armada')
         }, 4000)
     })
@@ -105,9 +105,6 @@ armarCubo()
 
 
 
-
-//peticiones (all)
-//verbos http
 
 
 

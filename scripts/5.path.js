@@ -19,8 +19,16 @@ const filename = path.basename('./tmp/alex-secret-files/password.txt', '.txt')
 console.log(filename)
 
 //extencion
-const extension = path.extname('imagen.jpeg')
+const extension = path.extname('imagen.veg')
 console.log(extension)
+
+//resolve
+const resolve = path.resolve('carpeta1', 'archivo.txt')
+console.log(resolve)
+
+
+
+
 
 
 
