@@ -30,15 +30,17 @@ Sólo puede ser usado dentro de una función async function.
 
 
 
+
+
 TEMARIO
 
 Sistema de Módulos CommonJS                                         _/
 Sistema de Modulos ES Modules                                       _/
 Modulos Nativos                                                     _/
 Import / require                                                    _/
-Sentirse inutil
-fs                                                                  
-Extension de archivos
+Sentirse inutil                                                     _/
+fs                                                                  _/
+Extension de archivos                                               _/
 Asincrono vs Sincrono
 CallBacks en NodeJS
 Promesas
@@ -64,7 +66,7 @@ Sentirse inutil
 Puertos y coliciones
 Variables de entorno
 Diferencia entre Etica y Moral
-
+CRUD
 
 
 
