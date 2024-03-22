@@ -13,5 +13,7 @@ console.log(process.cwd())
 console.log(process.env.CH)
 
 // controlar el proceso y su salida
-process.exit(1); // <--- con 0 todo bien, con 1 un error y tiene que salir.
+process.exit(1); // <--- con 0 todo bien, con 1 error y tiene que salir.
+
+
 
