@@ -28,6 +28,8 @@ async-await: La declaración de función async define una función asíncrona, l
 El operador await es usado para esperar a una Promise. 
 Sólo puede ser usado dentro de una función async function.
 
+
+
 // Callback : Funcion que se ejecuta cuando se completa una tarea asincrona.
 
 
@@ -51,9 +53,9 @@ Paralelo                                                            _/
 Version Síncrona                                                    _/
 Path                                                                _/
 Sentirse inutil                                                     _/
-Unir rutas / Nombre de un archivo / Obtener la Extension
-Objeto global process 
-CWD
+Unir rutas / Nombre de un archivo / Obtener la Extension            _/
+Objeto global process                                               _/
+CWD (current working directory)                                     _/
 Platform
 Comando ls avanzado
 Sentirse inutil
@@ -68,7 +70,7 @@ Variables de entorno
 Peticiones (all)
 Verbos http
 Diferencia entre Etica y Moral
-
+CRUD
 
 
 
@@ -82,3 +84,6 @@ Diferencia entre Etica y Moral
 
 
 Zedd beautiful now
+
+
+
