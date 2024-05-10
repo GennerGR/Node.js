@@ -15,7 +15,7 @@ async function pepe () {
         console.log('haciendo peticion')
     }
     catch{
-        console.log('fallo')
+        console.log('no sirve :(')
     }
 })()
 
